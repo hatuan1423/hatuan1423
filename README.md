@@ -6,7 +6,7 @@
 ## 📫 How to reach me
 
 <div id="badges" align="center" style="margin: 3px">
-  <a style="margin: 1px" href="https://www.linkedin.com/in/duong-ha-tuan-8268472a1/">
+  <a target="_blank" style="margin: 1px" href="https://www.linkedin.com/in/duong-ha-tuan-8268472a1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a style="margin: 1px" href="https://www.facebook.com/duong.ha.tuan.272271/">
